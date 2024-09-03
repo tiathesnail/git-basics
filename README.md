@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+-CGewont : Christopher Gewont cgewont@hawk.iit.edu
 
 ## Git & GitHub
 
