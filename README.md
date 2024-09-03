@@ -65,7 +65,7 @@ you already have a GitHub account, you may use that.
 ### Step 2
 
 After forming a team of 2-3 students, designate one team member to accept the
-assignment using this link: <https://classroom.github.com/a/YsKqJKrz>. 
+assignment using this link: <https://classroom.github.com/a/MFnr-oLv>. 
 
 After selecting their username from the list, use the "Create a new team" option
 --- feel free to come up with a fun team name, but keep it PG-13. After creating
@@ -84,7 +84,7 @@ Note that this assignment writeup can also be viewed on the repository homepage.
 ### Step 3
 
 At this point, only the founding team member will have access to the repository.
-Each team member should visit <https://classroom.github.com/a/YsKqJKrz> to
+Each team member should visit <https://classroom.github.com/a/MFnr-oLv> to
 accept the assignment, this time joining the same team created in the previous
 step. 
 
