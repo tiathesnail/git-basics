@@ -3,6 +3,7 @@
 ## Team members
 
 -CGewont : Christopher Gewont cgewont@hawk.iit.edu
+-tiathesnail : Tia Johnson ljohnson23@hawk.iit.edu
 
 ## Git & GitHub
 
